@@ -1,4 +1,4 @@
-### PRAKRIKUM 5
+### PRAKTIKUM 5
 ### USWATUN HASANAH
 ### 312210343
 ### TI.22.A3
@@ -36,8 +36,8 @@ Mengambil 2 bagian dari list pertama lalu jadikan menjadi list ke 2. Tambhakan l
 
 ### TUGAS
 ### MEMBUAT PROGRAM SEDERHANA
-Membuat program sederhana untuk menambahkan data ke dalam sebuah list dengan mengguakan perulangan. Lalu tampilkan pertanyaan untuk menambhakan data, 
-contoh (y/t) apabila menjawab "t" (tidak) maka data otomatis akan di tampilkan dan masusk nilai akhir. Nilai di ambil dari perhitungan 3 konseponen
+Membuat program sederhana untuk menambahkan data ke dalam sebuah list dengan menggunakan perulangan. Lalu tampilkan pertanyaan untuk menambahkan data, 
+contoh (y/t) apabila menjawab "t" (tidak) maka data otomatis akan di tampilkan dan masuk nilai akhir. Nilai di ambil dari perhitungan 3 konseponen
 nilai (Tugas 30%, Utas 35%, Uas 35%) 
 
 ![a4](https://user-images.githubusercontent.com/115516474/203054554-a6d6bfda-d626-4078-bae5-a2f8ced648ca.png)
